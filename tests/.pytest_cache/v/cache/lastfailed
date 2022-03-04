@@ -1,0 +1,6 @@
+{
+  "test_admin_pointallocation.py::TestFirst::test_point_allocation": true,
+  "test_admin_pointallocation.py::TestPointAllocation::test_point_allocation": true,
+  "test_admin_pointallocation.py::TestPointAlloction::test_point_allocation": true,
+  "test_pushnotification.py::TestFirst::test_push_notification": true
+}

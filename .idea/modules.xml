@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Selenium/PythonSelFramework/.idea/PythonSelFramework.iml" filepath="$PROJECT_DIR$/../Selenium/PythonSelFramework/.idea/PythonSelFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RewardzProject.iml" filepath="$PROJECT_DIR$/.idea/RewardzProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Rewardz_PWA/.idea/Rewardz_PWA.iml" filepath="$PROJECT_DIR$/../Rewardz_PWA/.idea/Rewardz_PWA.iml" />
+    </modules>
+  </component>
+</project>

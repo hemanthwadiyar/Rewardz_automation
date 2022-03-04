@@ -1,0 +1,18 @@
+[
+  "assets/test_admin_report.py::TestFirst::test_point_allocation",
+  "test_admin_pointallocation.py::TestFirst::test_point_allocation",
+  "test_admin_pointallocation.py::TestPointAllocation::test_point_allocation",
+  "test_admin_pointallocation.py::TestPointAlloction::test_point_allocation",
+  "test_announcement.py::TestFirst::test_point_allocation",
+  "test_bluk_point_allocation.py::TestFirst::test_bulk_point_allocation",
+  "test_bluk_point_allocation.py::TestFirst::test_point_allocation",
+  "test_create_event.py::TestFirst::test_point_allocation",
+  "test_delete_announcement.py::TestFirst::test_point_allocation",
+  "test_delete_event.py::TestFirst::test_point_allocation",
+  "test_edit_announcement.py::TestFirst::test_point_allocation",
+  "test_edit_event.py::TestFirst::test_point_allocation",
+  "test_edit_pointallocation.py::TestFirst::test_point_allocation",
+  "test_pushnotification.py::TestFirst::test_push_notification",
+  "test_report.py::TestFirst::test_point_allocation",
+  "test_reward_Redemptions.py::TestOne::test_e2e"
+]
